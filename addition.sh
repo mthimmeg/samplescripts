@@ -1,4 +1,4 @@
-#!/bin/bash
+# !/bin/bash
 # Take input from user and calculate sum.
  
 read -p "Enter first number: " num1
