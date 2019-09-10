@@ -7,3 +7,5 @@ read -p "Enter second number: " num2
 sum=$(( $num1 + $num2 ))
  
 echo "Sum is: $sum"
+
+echo "This is completed great job"
